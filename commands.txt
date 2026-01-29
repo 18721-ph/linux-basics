@@ -1,0 +1,5 @@
+touch
+ls
+cd
+mkdir
+rm
